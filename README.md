@@ -7,4 +7,6 @@ incognito mode.
 I've created a small extension where you could do exactly that.  
 
 Just download the zip file from Github and use Load unpacked extension
-feature.  
+feature. 
+
+icons from [https://www.flaticon.com/](https://www.flaticon.com/) 
