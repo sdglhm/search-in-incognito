@@ -1,5 +1,7 @@
 # Search for {selected text} in Incognito mode
 
+![in action](in_action.png)
+
 Recently one of my friends reached out to me to create an extension
 where he could use the selected text to be searched in Google chrome's
 incognito mode.  
