@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Search in Incognito",
+  "short_name": "SearchIncognito",
+  "description": "Searches for the selected phrase in Incognito mode",
+  "author": "Lahiru Himesh Madusanka",
+  "version": "0.0.1",
+  "minimum_chrome_version": "38",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+
+  "icons": {
+    "16": "assets/icon16.png",
+    "64": "assets/icon64.png",
+    "256": "assets/icon256.png"
+  },
+  "background": {"page": "background.html"}
+}
