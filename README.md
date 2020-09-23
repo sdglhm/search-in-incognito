@@ -9,6 +9,8 @@ incognito mode.
 I've created a small extension where you could do exactly that.  
 
 Just download the zip file from Github and use Load unpacked extension
-feature. 
+feature.
+
+Find the extension in Google Chrome store: https://chrome.google.com/webstore/detail/search-in-incognito/hiiafoidfbddfcnolnmklcdfoijddelf
 
 icons from [https://www.flaticon.com/](https://www.flaticon.com/) 
