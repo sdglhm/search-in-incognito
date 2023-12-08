@@ -4,7 +4,7 @@
   "short_name": "SearchIncognito",
   "description": "Searches for the selected phrase in Incognito mode",
   "author": "Lahiru Himesh Madusanka",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimum_chrome_version": "38",
   "permissions": [
     "contextMenus"
